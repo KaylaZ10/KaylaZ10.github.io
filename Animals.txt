@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Animal Combination</h1>
+
+<h1>Tigon or Liger</h1>
+
+<img src="emoji-.png">
+
+</body>
+</html>
